@@ -69,18 +69,6 @@
             <!-- Add or modify fields as needed -->
         </record>
 
-<!--        <record id="helpdesk.helpdesk_menu_team_dashboard" model="ir.actions.act_window">-->
-<!--            &lt;!&ndash;        this make me change name inside menu orders to app one&ndash;&gt;-->
-<!--            <field name="name">App One</field>-->
-<!--        </record>-->
-
-<!--        helpdesk_team_view_kanban-->
-<!--           <record id="helpdesk_ticket_form" model="ir.ui.view">-->
-<!--            <field name="name">helpdesk_ticket</field>-->
-<!--            <field name="model">helpdesk.ticket</field>-->
-<!--            <field name="inherit_id" ref="helpdesk.helpdesk_ticket_view_form"/>-->
-<!--            <field name="arch" type="xml">-->
-
     </data>
 </odoo>
 
